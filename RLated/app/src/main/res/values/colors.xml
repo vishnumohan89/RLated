@@ -3,4 +3,6 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="primaryPositiveColor">#18cb9b</color>
+    <color name="activityBackgroundColor">#f7f7f8</color>
 </resources>
